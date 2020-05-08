@@ -1,4 +1,6 @@
 {
+    "name": "rocky-media/rock-core-bundle",
+    "description": "The base of a reusable symfony system. A quickstart for every project.",
     "type": "project",
     "license": "proprietary",
     "require": {
